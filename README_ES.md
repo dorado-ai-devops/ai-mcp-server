@@ -138,14 +138,6 @@ Guardado como:
 
 ---
 
-## 🧠 Inspirado en
-
-- [`ai-helm-linter`](https://github.com/dorado-ai-devops/ai-helm-linter)
-- [FastAPI](https://fastapi.tiangolo.com)
-- [UUID + Trazabilidad DevOps](https://12factor.net/)
-
----
-
 ## 🛡 Licencia
 
 Licencia Pública General GNU v3.0
