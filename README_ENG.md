@@ -130,30 +130,10 @@ Stored as:
 /mnt/data/mcp/mcp-20250705-2220-bf11c2b3-21c2-4c9b-81f2-e8077f80e937.json
 ```
 
----
-
-## 🔮 Next Steps
-
-- [ ] Add SQLite indexer (by `timestamp`, `type`, `tags`)
-- [ ] Endpoint `/mcp/query` for dashboard queries
-- [ ] Direct integration with `streamlit-dashboard`
-- [ ] Symbolic linkage between events and commits/PRs
-
----
 
 ## 👨‍💻 Author
 
 - **Dani** – [@dorado-ai-devops](https://github.com/dorado-ai-devops)
-
----
-
-## 🧠 Inspired by
-
-- [`ai-helm-linter`](https://github.com/dorado-ai-devops/ai-helm-linter)
-- [FastAPI](https://fastapi.tiangolo.com)
-- [UUID + DevOps traceability](https://12factor.net/)
-
----
 
 ## 🛡 License
 

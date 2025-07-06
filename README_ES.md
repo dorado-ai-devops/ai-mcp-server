@@ -1,5 +1,3 @@
-# ai-mcp-server
-Modular microservice for capturing, validating, and persisting AI system messages as structured context for auditability, traceability, and symbolic insight.
 # 🧠 ai-mcp-server
 
 > Microservicio FastAPI para registrar y almacenar mensajes estructurados MCP (Mensajes de Contexto de Pipeline), conectando Jenkins, IA y dashboards en un sistema reflexivo.
@@ -131,15 +129,6 @@ Guardado como:
 ```
 /mnt/data/mcp/mcp-20250705-2220-bf11c2b3-21c2-4c9b-81f2-e8077f80e937.json
 ```
-
----
-
-## 🔮 Próximos pasos
-
-- [ ] Añadir indexador SQLite (por `timestamp`, `type`, `tags`)
-- [ ] Endpoint `/mcp/query` para consulta desde dashboards
-- [ ] Visualización directa en `streamlit-dashboard`
-- [ ] Asociación simbólica de eventos con commits o PRs
 
 ---
 
