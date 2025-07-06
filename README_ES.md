@@ -130,6 +130,7 @@ Guardado como:
 /mnt/data/mcp/mcp-20250705-2220-bf11c2b3-21c2-4c9b-81f2-e8077f80e937.json
 ```
 
+
 ---
 
 ## 👨‍💻 Autor
